@@ -36,7 +36,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://instagram.com/YOUR_HANDLE"
+            href="https://instagram.com/AtWillOfficial"
             target="_blank"
             rel="noreferrer"
             className="text-sm text-white/65 transition hover:text-white"
@@ -276,7 +276,7 @@ export default function Home() {
             </div>
 
             <a
-              href="https://instagram.com/AtQillOfficial"
+              href="https://instagram.com/AtWillOfficial"
               target="_blank"
               rel="noreferrer"
               className="inline-flex min-h-12 items-center justify-center rounded-full border border-white/12 bg-white/5 px-6 text-sm font-medium text-white/90 backdrop-blur-xl transition hover:bg-white hover:text-black"
