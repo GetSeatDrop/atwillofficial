@@ -231,8 +231,8 @@ export default function Home() {
           <div className="luxury-panel rounded-[1.75rem] p-5 md:p-8">
             <p className="luxury-text text-sm leading-7 md:text-base md:leading-8">
               Outside of development, I’m shaped by music, art, and immersive
-              culture. I’m a burner, a festival enthusiast, and someone who
-              values experiences that bring people together in meaningful ways.
+              culture. I’m a festival enthusiast, and someone who
+              values experiences that bring people together in meaningful ways.  See you at Black Rock City.
             </p>
 
             <p className="luxury-text mt-5 text-sm leading-7 md:text-base md:leading-8">
